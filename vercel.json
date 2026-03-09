@@ -6,7 +6,7 @@
   "routes": [
     { "src": "/Nadeem2", "dest": "/Nadeem2.js" },
     { "src": "/Kalopass", "dest": "/Kalopass.js" },
-    { "src": "/Sabir", "dest": "/Sabir.js" },
+    { "src": "/Sanaullah", "dest": "/Sanaullah.js" },
     { "src": "/Sabirpass", "dest": "/Sabirpass.js" },
     { "src": "/ahtsham", "dest": "/ahtsham.js" },
     { "src": "/waris", "dest": "/waris.js" },
