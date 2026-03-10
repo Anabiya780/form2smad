@@ -11,6 +11,6 @@
     { "src": "/ahtsham", "dest": "/ahtsham.js" },
     { "src": "/Maqsood", "dest": "/Maqsood.js" },
     { "src": "/Siraj", "dest": "/Siraj.js" },
-    { "src": "/zubairpass", "dest": "/zubairpass.js" }
+    { "src": "/Salu", "dest": "/Salu.js" }
   ]
 }
